@@ -1,0 +1,179 @@
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe.config
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\ZstdNet.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.AssemblyReference.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Aim.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Baseball.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Block.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Car.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Chat.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Login.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Join.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Main.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Mousecontroll.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Properties.Resources.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.GenerateResource.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CoreCompileInputs.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CopyComplete
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.exe
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Rank.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4) (3)\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Eachrank.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe.config
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.pdb
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\ZstdNet.dll
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.pdb
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.AssemblyReference.cache
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Aim.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Baseball.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Block.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Car.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Chat.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Eachrank.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Login.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Join.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Main.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Mousecontroll.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Properties.Resources.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Rank.resources
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.GenerateResource.cache
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CoreCompileInputs.cache
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CopyComplete
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.exe
+C:\Users\김정인\Documents\카카오톡 받은 파일\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe.config
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\ZstdNet.dll
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.AssemblyReference.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Aim.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Baseball.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Block.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Car.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Chat.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Eachrank.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Login.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Join.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Main.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Mousecontroll.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Properties.Resources.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Rank.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.GenerateResource.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CoreCompileInputs.cache
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CopyComplete
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.exe
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.pdb
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Profile.resources
+C:\Users\ninny\OneDrive\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Check.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe.config
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.exe
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\csharp_mini_game.pdb
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\ZstdNet.dll
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.pdb
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\Google.Protobuf.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\MySql.Data.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Buffers.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Memory.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.AssemblyReference.cache
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Aim.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Baseball.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Block.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Car.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Chat.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Check.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Eachrank.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Login.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Join.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Main.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Mousecontroll.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Profile.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Properties.Resources.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.Rank.resources
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.GenerateResource.cache
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CoreCompileInputs.cache
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.csproj.CopyComplete
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.exe
+C:\Users\김승기\Desktop\csharp-mini-game-master(정인4)\csharp_mini_game\obj\Debug\csharp_mini_game.pdb
